@@ -13,4 +13,6 @@ This presenation covers a vareity of topics relating to big data. Accessing the 
 
 **Lecture 2 - Using Apache Spark (Practical)**
 
-Coming soon....
+This presenation covers Apache Spark and contains some very basic examples of how it can be used to query data.
+
+- Contains two files, one of which is the presenation, the other of which is a google collab link where you can play around with Apache Spark.
